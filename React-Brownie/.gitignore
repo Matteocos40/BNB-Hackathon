@@ -1,0 +1,13 @@
+__pycache__
+.env
+.history
+.hypothesis/
+#build/
+reports/
+tests/
+brownie-config.yaml
+scripts/Reserve.sol
+node_modules
+packages.json
+yarn.lock
+
